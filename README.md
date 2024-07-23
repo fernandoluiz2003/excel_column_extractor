@@ -7,7 +7,7 @@
 To install the package, clone the repository and install it using `pip`:
 
 ```bash
-pip install git+https://github.com/fernandoluiz2003/CreateDirectory.git
+pip install git+https://github.com/fernandoluiz2003/excel_column_extractor.git
 ```
 
 ## Usage
