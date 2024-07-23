@@ -15,6 +15,6 @@ setup(
     long_description_content_type='text/markdown',
     author='Fernando Fontes',
     author_email='nandofontes30@gmail.com',
-    url='https://github.com/fernandoluiz2003/CreateDirectory',
+    url='https://github.com/fernandoluiz2003/excel_column_extractor.git',
     install_requires=parse_requirements('requirements.txt')
 )
